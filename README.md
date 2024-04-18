@@ -1,4 +1,4 @@
- <h2 align="center"><b>Hola! Soy Nicolás Huanca </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+ <h1 align="center"><b>Hola! Soy Nicolás Huanca </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -13,8 +13,6 @@
 
 <br><br>
 
-<!-- ## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
 <br>
@@ -26,17 +24,18 @@
 
 #### Lenguajes
 
-![HTML](https://img.shields.io/badge/-HTML-239120?style=flat&logo=html5&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
+
 <!--![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
 
 #### Desarrollo
-![Reactjs](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+![Reactjs](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Expressjs](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)&nbsp;
@@ -46,7 +45,7 @@
 
 #### Base de Datos
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
 
 #### Tecnologías

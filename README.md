@@ -8,7 +8,7 @@
 
 - 💻 Fullstack Web Developer
 - 🎓 Estudiante de Ing. Informática
-- 🚀 Actualmente participando en proyectos como Backend Developer
+- 🚀 Actualmente participando en proyectos como React Dev y Java Dev.
 - 🌱 Aprendiendo Springboot Framework
 
 <br><br>

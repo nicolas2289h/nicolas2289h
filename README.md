@@ -7,7 +7,7 @@
 <br>
 
 - 💻 Fullstack Web Developer
-- 🎓 Estudiante de Ing. Informática
+- 🎓 Ing. Informática
 - 🚀 Actualmente participando en proyectos como React Dev y Java Dev.
 
 <br><br>

@@ -2,11 +2,11 @@
 
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"><b> Sobre Mi</b>
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"><b> Sobre Mi</b>
 
 <br>
 
-- 💻 Fullstack Web Developer
+- 💻 Fullstack Developer
 - 🎓 Ing. Informática
 - 🚀 Actualmente participando en proyectos como React Dev y Java Dev.
 
